@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <title>Contact</title>
+</head>
+
+<body>
+    <div class="container">
+        <ul class="content">
+            <span class="firstSpan"><span class="secondSpan">Instargram</span><i class='bx bxl-instagram inst'></i></span>
+            <span class="firstSpan"><span class="secondSpan">Facebook</span> <i class='bx bxl-facebook-circle fbk'></i></span>
+            <span class="firstSpan"><span class="secondSpan">Discord</span><i class='bx bxl-discord-alt disc'></i></span>
+        </ul>
+    </div>
+    <h2>Wedsite by</h2> <br> <p>@Thanaphat <br> @Natthawat <br> @Knaokpon <br> -----
+    </p>
+    
+    <div class="container-btn">
+        <div class="center">
+          <button class="button" onclick="document.location='index.php'">Back</button>
+        </div>
+      </div>
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+.card{
+    background-color: red;
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 4px 13px;
+}
+
+.edit {
+    display: flex;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    font-size: 30px;
+    cursor: pointer;
+}
